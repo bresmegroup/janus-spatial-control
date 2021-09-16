@@ -10,5 +10,5 @@ the approaches discussed in the following references:
 Plasmon Resonance Frequencies and Damping Ratesfor Nanospheres.Plasmonics2016,11, 941–951
 
 Further details can be found in the paper:
-"Spatial control of heat flow at the nanoscaleusing Janus particles"
+- "Spatial control of heat flow at the nanoscaleusing Janus particles"
 Juan D. Olarte-Plata, Jordan Gabriel,Pablo Albella,and Fernando Bresme
